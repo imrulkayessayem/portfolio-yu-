@@ -1,0 +1,24 @@
+#header {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+#showcase .mountain {
+  top: 0;
+  height: 50px;
+}
+
+#showcase .container>.cloud-1, 
+#showcase .container>.cloud-2 {
+  width: 20px;
+  display: none;
+}
+
+
+.social a {
+  font-size: 1rem;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+}
